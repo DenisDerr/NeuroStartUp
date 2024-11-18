@@ -10,9 +10,3 @@
 * Высокая скорость поиска
 * Низкая цена
 * 
-```css
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
-```
